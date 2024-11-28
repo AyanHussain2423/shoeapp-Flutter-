@@ -1,16 +1,10 @@
-# shoeapp
+# shoeApp - Flutter
+A simple mobile application built with Flutter that allows users to manage a list of shoes, add shoes to the cart, and perform basic operations like adding, removing, and viewing items. This app uses a custom model for data management without the need for APIs.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Display a list of shoes.
+- Add shoes to the cart.
+- Remove shoes from the cart.
+- Simple model-based data management (no backend/API).
+- Basic cart functionality to add or remove items.
+## Demo
